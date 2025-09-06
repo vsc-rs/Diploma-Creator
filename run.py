@@ -90,9 +90,9 @@ File tekst.txt contains names of your desired students and comments bellow, for 
 Mickey Joe
 New York
 Jhonny Cach
-Kenntacky
+Kentucky
 Hojima Kamura
-Tokiyo
+Tokyo
 ...
 etc.
 */
