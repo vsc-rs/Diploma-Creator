@@ -81,9 +81,9 @@ if __name__ == "__main__":
 
 
 
-# Remove next description first:
+"""
 
-/*
+An important description first:
 
 File tekst.txt contains names of your desired students and comments bellow, for instance:
 
@@ -95,4 +95,5 @@ Hojima Kamura
 Tokyo
 ...
 etc.
-*/
+
+"""
