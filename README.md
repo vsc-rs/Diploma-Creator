@@ -8,4 +8,6 @@ python run.py
 
 Enjoy!
 
+Author: https://vsc.rs
+
 
