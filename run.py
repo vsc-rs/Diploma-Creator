@@ -78,3 +78,21 @@ if __name__ == "__main__":
         tekst_fajl="tekst.txt",
         font_path="arial.ttf"  # ili npr. "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
     )
+
+
+
+# Remove next description first:
+
+/*
+
+File tekst.txt contains names of your desired students and comments bellow, for instance:
+
+Mickey Joe
+New York
+Jhonny Cach
+Kenntacky
+Hojima Kamura
+Tokiyo
+...
+etc.
+*/
