@@ -6,6 +6,8 @@ _________________________________
 
  pip install pillow
 
+ Please copy arial.ttf font into working folder first!
+
  _________________________________
 
  """
