@@ -1,10 +1,14 @@
-# _________________________________
-#
-# Author: https://vsc.rs
-#
-# pip install pillow
-#
-# _________________________________
+"""
+
+_________________________________
+
+ Author: https://vsc.rs
+
+ pip install pillow
+
+ _________________________________
+
+ """
 
 from PIL import Image, ImageDraw, ImageFont
 
