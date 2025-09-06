@@ -59,7 +59,7 @@ def batch_slike(ulazna_slika, tekst_fajl, font_path="arial.ttf"):
         slika = Image.open(ulazna_slika).convert("RGB")
 
         # definiši pravougaonike za tekst
-        # Please use mspaint or Incscape to find desired position and rect size of your text on Picture (slika.jpg)
+        # Please use mspaint or Incscape to find desired position and rect size of your text on Visit Card Picture Template (slika.jpg)
         
         rect1=(335, 1380, 1813, 97)    # x, y, w, h
         rect2=(1023, 1499, 465, 67)    # x, y, w, h        
@@ -89,7 +89,7 @@ if __name__ == "__main__":
 
 An important description first:
 
-File tekst.txt contains names of your desired students and comments bellow, for instance:
+File tekst.txt contains names of your desired workers/students and comments bellow, for instance:
 
 Mickey Joe
 New York
